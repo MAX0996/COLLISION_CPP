@@ -16,7 +16,7 @@ Pour lancer le programme sous LINUX:
 
 3) (Compilation) Taper dans la console: >$ make
 
-4) (Lancement du programme) Taper dans la console: >$ bin/main 
+4) (Lancement du programme) Taper dans la console: >$ BIN_LINUX/main 
 
 
 Le code source est disponible dans le dossier "Collision" ainsi que le projet Code::Blocks.
