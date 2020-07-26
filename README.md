@@ -28,6 +28,8 @@ Ce programme en C++/SFML à pour but de simuler une collision entre des cercles.
         
         BIN_LINUX/main 
 
+--
+
         ## Attention
         Si vous utilisez WSL sous WINDOWS, vous devez d'abord avoir installé et démarré le logiciel "VcxSRV Window X Server"
         pour pouvoir afficher quoi que ce soit sur votre écran.
