@@ -9,7 +9,7 @@ Pour lancer le programme sous WINDOWS 10:
 2) Pour lancer le programme: Collision -> bin -> Debug -> Collision.exe.
 
 Pour lancer le programme sous LINUX:
-##fefz
+
 1) Télécharger le dossier puis ouvrir le terminal.
 
 2) Dans le terminal, se rendre dans le dossier "Collision" avec la commande 'cd' où se trouve le makefile.
