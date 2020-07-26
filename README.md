@@ -1,6 +1,6 @@
 # COLLISION_CPP
 
-Le programme à pour but de simuler une collision entre des sphères.
+Le programme à pour but de simuler une collision entre des cercles.
 
 Pour lancer le programme sous windows: Collision -> bin -> Debug -> Collision.exe.
 
