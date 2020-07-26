@@ -18,7 +18,7 @@ Pour lancer le programme sous LINUX:
 
 4) (Lancement du programme) Taper dans la console: >$ BIN_LINUX/main 
 
-        Si vous utilisez WSL sous WINDOWS, il est indispensable d'avoir installé et démarré le logiciel "VcxSRV Window X Server"
+        Si vous utilisez WSL sous WINDOWS, vous devez d'abord avoir installé et démarré le logiciel "VcxSRV Window X Server"
         pour pouvoir afficher quoi que ce soit sur votre écran.
 
 Le code source est disponible dans le dossier "Collision" ainsi que le projet Code::Blocks.
