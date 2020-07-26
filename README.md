@@ -2,7 +2,7 @@
 
 Ce programme en C++/SFML à pour but de simuler une collision entre des cercles.
 
-Le code source est disponible dans le dossier "Collision" ainsi que le projet Code::Blocks.
+Le code source ainsi que le projet Code::Blocks sont disponibles dans le dossier "Collision".
 
 ---
 
