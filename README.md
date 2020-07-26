@@ -33,5 +33,5 @@ Le code source ainsi que le projet Code::Blocks sont disponibles dans le dossier
 
 
     ## Windows Subsytem for Linux (WSL) 
-    Si vous utilisez WSL sous WINDOWS, vous devez d'abord avoir installé et démarré le logiciel "VcxSRV Window X Server"
+    Si vous utilisez WSL sous WINDOWS, vous devez d'abord avoir installé et démarré le logiciel "VcXsrv Window X Server"
     pour pouvoir afficher quoi que ce soit sur votre écran.
