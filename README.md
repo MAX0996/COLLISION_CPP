@@ -1,5 +1,7 @@
 # COLLISION_CPP
 
-Pour lancer le programme sous windows: Collision -> bin -> Debug -> Collision.exe
+Le programme à pour but de simuler une collision entre des sphères.
 
-Tous les fichiers sources sont disponibles dans le fichier collision ainsi que le projet Code::Blocks
+Pour lancer le programme sous windows: Collision -> bin -> Debug -> Collision.exe.
+
+Le code source est disponible dans le dossier "Collision" ainsi que le projet Code::Blocks.
