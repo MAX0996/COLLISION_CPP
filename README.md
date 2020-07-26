@@ -16,17 +16,17 @@ Le code source ainsi que le projet Code::Blocks sont disponibles dans le dossier
 
 1) Télécharger le dossier .zip, le décompresser puis ouvrir le terminal.
 
-2) Installer la librairie graphiques SFML avec la commande suivante:
+2) Installer la librairie graphiques SFML avec la commande suivante :
 
         sudo apt-get install g++ make libsfml-dev
 
 3) Dans le terminal, se rendre dans le dossier "Collision" avec la commande 'cd' où se trouve le makefile.
 
-4) (Compilation) Taper dans la console:
+4) (Compilation) Taper dans la console :
 
         make
 
-5) (Lancement du programme) Taper dans la console: 
+5) (Lancement du programme) Taper dans la console : 
         
         BIN_LINUX/main
 
