@@ -14,7 +14,7 @@ Ce programme en C++/SFML à pour but de simuler une collision entre des cercles.
 
 1) Télécharger le dossier .zip, le décompresser puis ouvrir le terminal.
 
-2) Installer La librairie graphiques SFML avec la commande suivante:
+2) Installer la librairie graphiques SFML avec la commande suivante:
 
         sudo apt-get install g++ make libsfml-dev
 
@@ -26,9 +26,9 @@ Ce programme en C++/SFML à pour but de simuler une collision entre des cercles.
 
 5) (Lancement du programme) Taper dans la console 
         
-        BIN_LINUX/main 
+        BIN_LINUX/main
 
---
+
 
         ## Attention
         Si vous utilisez WSL sous WINDOWS, vous devez d'abord avoir installé et démarré le logiciel "VcxSRV Window X Server"
