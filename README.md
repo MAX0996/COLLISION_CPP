@@ -2,6 +2,8 @@
 
 Ce programme en C++/SFML à pour but de simuler une collision entre des cercles.
 
+Le code source est disponible dans le dossier "Collision" ainsi que le projet Code::Blocks.
+
 ---
 
 ## Pour lancer le programme sous WINDOWS 10
@@ -33,5 +35,3 @@ Ce programme en C++/SFML à pour but de simuler une collision entre des cercles.
     ## Windows Subsytem for Linux (WSL) 
     Si vous utilisez WSL sous WINDOWS, vous devez d'abord avoir installé et démarré le logiciel "VcxSRV Window X Server"
     pour pouvoir afficher quoi que ce soit sur votre écran.
-
-Le code source est disponible dans le dossier "Collision" ainsi que le projet Code::Blocks.
