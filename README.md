@@ -2,22 +2,33 @@
 
 Ce programme en C++/SFML à pour but de simuler une collision entre des cercles.
 
-Pour lancer le programme sous WINDOWS 10:
+---
+
+## Pour lancer le programme sous WINDOWS 10
 
 1) Télecharger le dossier .zip puis le décompresser.
 
-2) Pour lancer le programme: Collision -> bin -> Debug -> Collision.exe.
+2) Lancer directement le programme: Collision -> bin -> Debug -> Collision.exe.
 
-Pour lancer le programme sous LINUX:
+## Pour lancer le programme sous LINUX
 
 1) Télécharger le dossier .zip, le décompresser puis ouvrir le terminal.
 
-2) Dans le terminal, se rendre dans le dossier "Collision" avec la commande 'cd' où se trouve le makefile.
+2) Installer La librairie graphiques SFML avec la commande suivante:
 
-3) (Compilation) Taper dans la console: >$ make
+        sudo apt-get install g++ make libsfml-dev
 
-4) (Lancement du programme) Taper dans la console: >$ BIN_LINUX/main 
+3) Dans le terminal, se rendre dans le dossier "Collision" avec la commande 'cd' où se trouve le makefile.
 
+4) (Compilation) Taper dans la console
+
+        make
+
+5) (Lancement du programme) Taper dans la console 
+        
+        BIN_LINUX/main 
+
+        ## Attention
         Si vous utilisez WSL sous WINDOWS, vous devez d'abord avoir installé et démarré le logiciel "VcxSRV Window X Server"
         pour pouvoir afficher quoi que ce soit sur votre écran.
 
