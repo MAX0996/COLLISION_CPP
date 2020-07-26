@@ -4,13 +4,13 @@ Ce programme en C++/SFML à pour but de simuler une collision entre des cercles.
 
 Pour lancer le programme sous WINDOWS 10:
 
-1) Télecharger le dossier "Collision"
+1) Télecharger le dossier .zip puis le décompresser.
 
 2) Pour lancer le programme: Collision -> bin -> Debug -> Collision.exe.
 
 Pour lancer le programme sous LINUX:
 
-1) Télécharger le dossier "Collision" puis ouvrir le terminal.
+1) Télécharger le dossier .zip, le décompresser puis ouvrir le terminal.
 
 2) Dans le terminal, se rendre dans le dossier "Collision" avec la commande 'cd' où se trouve le makefile.
 
