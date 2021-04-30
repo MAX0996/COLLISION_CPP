@@ -41,4 +41,4 @@ Le code source ainsi que le projet Code::Blocks sont disponibles dans le dossier
 ## Auteur
   Maxime HAVGOUDOUKIAN
   
-# Status du projet - Terminé
+### Status du projet - Terminé
