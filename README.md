@@ -37,8 +37,3 @@ Le code source ainsi que le projet Code::Blocks sont disponibles dans le dossier
     pour pouvoir afficher quoi que ce soit sur votre écran.
     
     Ensuite suivez la section "Pour lancer le programme sous LINUX"
-
-## Auteur
-  Maxime HAVGOUDOUKIAN
-  
-### Status du projet - Terminé
